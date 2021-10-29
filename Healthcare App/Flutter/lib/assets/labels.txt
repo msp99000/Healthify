@@ -1,0 +1,10 @@
+0 Avocado
+1 Beetroot
+2 Brocolli
+3 Cabbage
+4 Carrot
+5 Class 6
+6 Lemon
+7 Pepper Red
+8 Spinach
+9 Tomato Cherry Red
