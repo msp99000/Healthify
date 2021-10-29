@@ -1,2 +1,2 @@
 # On-Device-Machine-Learning
-Health Care App (Tflite + Flask)
+Health Care App (Flutter + Tflite + Flask)
