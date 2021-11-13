@@ -2,4 +2,4 @@
 Health Care App (Flutter + Tflite + Flask)
 
 
-Uses Flask Backend
+Uses Flask Backend and Flutter Framework
