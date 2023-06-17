@@ -1,4 +1,4 @@
-# On-Device-Machine-Learning
+# Healthify
 Health Care App (Flutter + Tflite + Flask)
 
 
