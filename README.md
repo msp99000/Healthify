@@ -1,6 +1,6 @@
 **Healthify: Your Personal Nutrition Guide**
 
-Welcome to Healthify, your ultimate companion for making healthier food choices effortlessly. With our innovative app, taking care of your health has never been easier
+Welcome to Healthify, your ultimate companion for making healthier food choices effortlessly. With our innovative app, taking care of your health has never been easier.
 
 **Features:**
 
